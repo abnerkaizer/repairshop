@@ -1,2 +1,4 @@
 (rs) é um diretorio que não será visto publicamente, contem pastas, que são as rotas acessadas apenas logado e 
 com as credenciais corretas.
+
+Erros: https://nextjs.org/docs/app/building-your-application/routing/error-handling#handling-global-errors
